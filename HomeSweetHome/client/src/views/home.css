@@ -1,0 +1,45 @@
+.Home {
+    background: url("https://i.redd.it/gnyq88u0xrb41.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    height: 900px;
+    
+    color: white;
+    
+}
+
+#mainH1 {
+    margin-top: 170px;
+    margin-bottom: 100px;
+}
+
+.Link {
+    color: orange;
+}
+
+#mainH3 {
+    margin-top: 150px;
+}
+
+#rdH3 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#detailsImg {
+    margin-top: 50px;
+}
+
+#detailsH1 {
+    color: darkorange;
+}
+
+#detailsH3 {
+    color: darkorange;
+    margin-top: 50px;
+}
+
+#detailsP {
+    margin-bottom: 50px;
+}
+
